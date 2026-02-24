@@ -1,4 +1,4 @@
-# Inception 🐳
+# Inception
 ```js
 const Inception = {
   "?": "Dockerize NGINX, WordPress, MariaDB",
@@ -6,7 +6,7 @@ const Inception = {
 };
 ```
 
-## Directory Structure 🗂️  
+## Directory Structure  
 ```plaintext
 project_root/
 ├── Makefile       
